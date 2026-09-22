@@ -1,0 +1,21 @@
+ h1 {
+            front-family:Verdana, Geneva, Tahoma, sans-serif;
+            color:blue;
+            text-align: center;
+        }
+        .sorot {
+            color: brown;
+            font-weight: bolder;
+        }
+        .tengah {
+            text-align: center;
+        }
+        .kanan {
+            text-align: right;
+        }
+
+        ul.emoji {
+            list-style-type: "✅";
+        }
+
+       
